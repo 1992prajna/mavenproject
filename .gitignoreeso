@@ -1,0 +1,10 @@
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+dependency-reduced-pom.xml
+maven-archiver/
+maven-status/
